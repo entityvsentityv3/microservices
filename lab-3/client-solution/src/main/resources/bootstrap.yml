@@ -4,7 +4,7 @@
 # as the config server typically has to serve up properties for many applictions:
 spring:
   application:
-    name: lab-3-client					# What set of properties will we ask the config server for?
+      name: lab-3-client					# What set of properties will we ask the config server for?
   
   cloud:
     config:
